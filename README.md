@@ -1,12 +1,12 @@
-#git init
+git init
 
-#git add .
+git add .
 
-#git commit -m "first commit"
+git commit -m "first commit"
 
-#git branch -M main
+git branch -M main
 
-#git remote add origin https://github.com/Daniel-Stati/Practica.git
+git remote add origin https://github.com/Daniel-Stati/Practica.git
 
-#git push -u origin main
+git push -u origin main
 
